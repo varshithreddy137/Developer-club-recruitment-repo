@@ -1,18 +1,29 @@
 # Developer-club-recruitment-repo
 
-This is a simple To do list app built using HTML,CSS and JavaScript (Crud applications) . It allows user to add, delete , edit and pin the tasks to top  web
+This is a simple To-Do List app built using **HTML**, **CSS**, and **JavaScript** (CRUD operations). It allows users to **add, delete, edit**, and **pin tasks to the top** of the list.
 
-The HTML is used to add the items which are required the project , CSS is used to style and make the interface clean and neat , JavaScript is used mainly for logic and Taking input from the users.
+The **HTML** is used to structure the elements required in the project. **CSS** is applied to style the components and create a clean, user-friendly interface. **JavaScript** handles the core logic such as task manipulation and user interactions.
 
-The Interface of the app before giving the input looks with and input box in the middle and a add button from which we can give our task as input and add it . 
+Initially, the interface displays an input box at the center of the screen along with an **"Add"** button. Users can type their task into the input box and click the button to add it to the list.
 
-After adding one or more asks , we can see muliple options such as delete , edit and pin task in the side of the given inputs , which does thier respective work . 
+Once tasks are added, each task item displays multiple action buttons like **Delete**, **Edit**, and **Pin**, which perform their respective functions.
+
+---
 
 EDIT TASK
 
+---
+
 DELETE TASK
+
+---
 
 PIN TASK
 
-We can also tick the tasks which we have completed doing by checking in the chechkbox present to the left og the input tasks
-CHECKBOX 
+---
+
+You can also mark tasks as completed by ticking the **checkbox** located to the left of each task.
+
+---
+
+CHECKBOX
